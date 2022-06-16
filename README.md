@@ -5,3 +5,5 @@
 4. 컴퓨터는 랜덤하게 아이템 선택이 된다.
 5. 3,4 결과를 가지고 누가 이겼는지 승패를 따진다.
 6. 승패 결과에 따라 테투리 색이 바뀐다. ( 이기면 초록, 지면 빨강, 비기면 검정)
+
+<img width="1037" alt="image" src="https://user-images.githubusercontent.com/20445415/174092847-284543ac-a911-47cf-b0eb-5da6e065a646.png">
